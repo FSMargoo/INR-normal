@@ -4,6 +4,10 @@
 
 **Implicit Neural Representations for Normal Map Compression and Reconstruction**
 
+<p>
+  <a href="https://github.com/FSMargoo/INR-normal/actions/workflows/ci.yml"><img src="https://github.com/FSMargoo/INR-normal/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
+</p>
+
 </div>
 
 ## Introduction
