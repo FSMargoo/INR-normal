@@ -1,0 +1,10 @@
+# Default experiment configuration
+root: ./exper
+device: gpu
+weights: high_res/weights_group3_small.png.pth
+out: outputs
+siren:
+  hidden: 128
+  layers: 3
+  lr: 1e-4
+  iters: 6000
