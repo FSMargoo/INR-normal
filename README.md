@@ -168,17 +168,6 @@ This project is licensed under the MIT License (see `LICENSE`).
 
 ---
 
-If you want, I can also:
-- add a GitHub Actions CI badge to the `README`,
-- add a notebook demo that walks through training and inference, or
-- add a short HOWTO in `docs/` and generate a docs site.
-
-Which of these would you like next?
-- `checkpoint_path`: path to save the current best model (a summary JSON is also written)
-- `checkpoint_interval`: save an intermediate checkpoint every N iterations
-- `early_stopping_patience`: number of validation checks with no improvement before early stopping (0 disables)
-- `resume_from`: path to a checkpoint to resume training from
-
 New checkpoint format (a dict containing model and optimizer state):
 
 ```json
